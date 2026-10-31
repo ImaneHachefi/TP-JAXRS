@@ -1,0 +1,14 @@
+services:
+  h2-db:
+    image: oscarfonts/h2
+    container_name: dbbanque-h2
+    ports:
+      - "9092:1521"   # hôte:conteneur
+      - "81:81"
+    environment:
+      H2_OPTIONS: -ifNotExists
+    volumes:
+      - h2-data:/opt/h2-data
+
+volumes:
+  h2-data:

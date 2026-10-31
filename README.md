@@ -158,7 +158,4 @@ Version XML (`Content-Type: application/xml`) :
 `GET http://localhost:8082/api/banque/comptes`
 
 <img width="1377" height="861" alt="Capture d&#39;écran 2026-10-31 021201" src="https://github.com/user-attachments/assets/77c95aa6-f0b6-44b2-b949-63ce1311407e" />
-
-## Auteur
-
-Imane Hachefi, EMSI Marrakech
+<img width="1174" height="796" alt="image" src="https://github.com/user-attachments/assets/24f36bff-bd73-4325-9fae-bbdc2f63e87b" />
